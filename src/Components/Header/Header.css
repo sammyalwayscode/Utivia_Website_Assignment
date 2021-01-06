@@ -1,0 +1,85 @@
+.parentDiv{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.childDiv{
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+justify-content: center;
+justify-content: space-between;
+}
+
+.Logo{
+  margin-top: 20px;
+  margin-left: 70px;
+  width: 150px;
+  background-color: #28166f;
+}
+
+.textDiv{
+  height: 100%;
+  display: flex;
+  margin-top: 20px;
+  width: 500px;
+  background-color: #fbaf1b;
+  flex-wrap: wrap;
+}
+
+.pTag{
+margin-right:30px;
+color: gray;
+font-size: 20px;
+}
+
+.buttonTag{
+  height: 40px;
+  width: 120px;
+  margin-top: 16px;
+  outline: none;
+  background-color: #28166f;
+  color: white;
+  border: none;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 7px;
+
+}
+
+.secondText{
+  margin-left: 70px;
+  width: 300px;
+}
+
+.blueText{
+  font-size: 80px;
+  font-weight: bold;
+  color: #28166f;
+  margin-top: -0px;
+  margin-top: 20px;  
+}
+
+.orangeText{
+  font-size: 80px;
+  font-weight: bold;
+  color: #fbaf1b;
+  margin-top: -80px;
+
+}
+
+.planeText{
+  margin-top: -50px;
+  font-size: 20px;
+}
+
+.vedio{
+  margin-top: 60px;
+  height: 100vh;
+  width: 100vw;
+  border: none;
+  outline: none;
+
+}

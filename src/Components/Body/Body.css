@@ -1,0 +1,68 @@
+.firstDiv{
+
+}
+
+.secondDiv{
+
+}
+
+.Paterners{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 80px;
+  margin-right: 100px;
+}
+
+.cardDiv{
+  height: 400px;
+  width: 350px;
+  background-color: #120c64;
+  margin-top: -300px;
+  margin-left: 100px;
+  border-radius: 5px;
+}
+
+.cardControllerDiv{
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.smallYelloText{
+  color: #fbaf1b;
+  font-weight: bold;
+  margin-top: 55px;
+}
+
+.largeWhiteText{
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
+
+.Button{
+  height: 50px;
+  background-color: #fbaf1b;
+  border: none;
+  outline: none;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+.textBeforeCards{
+  margin-left: 100px;
+  margin-top: 150px;
+}
+
+.smallGrayText{
+  color: gray;
+  font-size: large;
+  font-weight: bold;
+}
+
+.largeBlackText{
+  font-size: 35px;
+  font-weight: bold;
+}
